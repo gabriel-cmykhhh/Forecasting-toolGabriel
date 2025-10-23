@@ -16,7 +16,7 @@ import glob  # <-- NUEVO: Para encontrar archivos en carpetas
 # |                   CONFIGURACIÓN DE LA PÁGINA                             |
 # --------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Predicción de Consumo Energético con IA",
+    page_title="WELCOME TO MY WEBSITE, HARDIK GUAPO",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
